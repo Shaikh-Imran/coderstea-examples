@@ -1,4 +1,4 @@
-package multipart.stream;
+package mulicupteas.stream;
 
 import java.util.function.*;
 

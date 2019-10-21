@@ -1,4 +1,4 @@
-package mulicupteas.reflectionapi;
+package multicupteas.reflectionapi;
 
 import java.lang.reflect.Constructor;
 import java.lang.reflect.Field;

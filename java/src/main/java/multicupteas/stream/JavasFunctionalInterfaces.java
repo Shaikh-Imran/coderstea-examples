@@ -1,4 +1,4 @@
-package mulicupteas.stream;
+package multicupteas.stream;
 
 import java.util.function.*;
 

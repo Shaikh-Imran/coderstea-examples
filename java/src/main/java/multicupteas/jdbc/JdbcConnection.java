@@ -1,4 +1,4 @@
-package mulicupteas.jdbc;
+package multicupteas.jdbc;
 
 import com.zaxxer.hikari.HikariConfig;
 import com.zaxxer.hikari.HikariDataSource;

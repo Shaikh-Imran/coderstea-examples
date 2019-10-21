@@ -1,4 +1,4 @@
-package mulicupteas.concurrency;
+package multicupteas.concurrency;
 
 public class DriveACarRideTheBikesAndSailABoatSimultaneously {
 	public static void main(String[] args) {

@@ -10,7 +10,7 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.time.Duration;
 
-public class JdbcConnection {
+public class HikariCP {
 
 	// static global DataSource object.
 	private static DataSource dataSource;

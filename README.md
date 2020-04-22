@@ -14,7 +14,7 @@ We have made the file structure based on the Programming languages.
 
 ### This Repo can be found on Any of the following repos
 
-* [GitHub](https://github.com/Shaikh-Imran/coderstea.com-exampless)
+* [GitHub](https://github.com/Shaikh-Imran/coderstea.com-examples)
 * [GitLab](https://gitlab.com/Shaikh-Imran/coderstea.com-examples)
 * [BitBucket](https://bitbucket.org/shaikh-imran/coderstea.com-examples/src/master/)
 
